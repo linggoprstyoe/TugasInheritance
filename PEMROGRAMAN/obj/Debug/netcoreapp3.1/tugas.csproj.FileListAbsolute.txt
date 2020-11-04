@@ -1,0 +1,24 @@
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.exe
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.deps.json
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.dll
+E:\netapp\tugas\bin\Debug\netcoreapp3.1\tugas.pdb
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.csprojAssemblyReference.cache
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.csproj.CoreCompileInputs.cache
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.dll
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.pdb
+E:\netapp\tugas\obj\Debug\netcoreapp3.1\tugas.genruntimeconfig.cache
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.exe
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.deps.json
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.dll
+C:\Users\Latitude E7250\PEMROGRAMAN\bin\Debug\netcoreapp3.1\tugas.pdb
+C:\Users\Latitude E7250\PEMROGRAMAN\obj\Debug\netcoreapp3.1\tugas.csprojAssemblyReference.cache
+C:\Users\Latitude E7250\PEMROGRAMAN\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+C:\Users\Latitude E7250\PEMROGRAMAN\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+C:\Users\Latitude E7250\PEMROGRAMAN\obj\Debug\netcoreapp3.1\tugas.dll
+C:\Users\Latitude E7250\PEMROGRAMAN\obj\Debug\netcoreapp3.1\tugas.pdb
